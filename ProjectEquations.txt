@@ -19,7 +19,6 @@
 "DropLength" = 1in
 "DropWidth" = 8.5in
 "BumperWidth" = 1in
-"HoleDiameter" = 0.25in
 "SmallHexDiameter" = 0.185in
 "SmallHexHeight" = 0.701in
 "ScrewSize" = 0.106in
