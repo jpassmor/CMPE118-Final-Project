@@ -11,8 +11,8 @@
 "TowerSideBase" = 3in
 "TowerPanelLength" = 2in
 "TowerPanelLeeway" = 0.5in
-"BaseLength" = 10in
-"BaseWidth" = 10.5in
+"BaseLength" = 9in
+"BaseWidth" = 10in
 "WheelHoleLength" = 3.25in
 "WheelHoleWidth" = 26mm
 "WheelHoleFromBack" = 1in
@@ -45,3 +45,4 @@
 "SkateWheelThickness" = 24mm
 "BaseDistance" = 3in
 "DummyVar" = 2in
+"DropWidthTop" = 4in
