@@ -15,7 +15,7 @@
 "BaseWidth" = 10in
 "WheelHoleLength" = 3.25in
 "WheelHoleWidth" = 26mm
-"WheelHoleFromBack" = 1in
+"WheelHoleFromBack" = 1.5in
 "DropLength" = 1in
 "DropWidth" = 8.5in
 "BumperWidth" = 1in
