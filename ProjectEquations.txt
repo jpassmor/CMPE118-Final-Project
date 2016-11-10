@@ -18,7 +18,7 @@
 "WheelHoleFromBack" = 1.5in
 "DropLength" = 1in
 "DropWidth" = 8.5in
-"BumperWidth" = 1in
+"BumperWidth" = 2in
 "SmallHexDiameter" = 0.185in
 "SmallHexHeight" = 0.701in
 "ScrewSize" = 0.106in
@@ -45,4 +45,4 @@
 "SkateWheelThickness" = 24mm
 "BaseDistance" = 3in
 "DummyVar" = 2in
-"DropWidthTop" = 4in
+"DropWidthTop" = 0in
